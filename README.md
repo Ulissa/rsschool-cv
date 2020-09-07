@@ -1,5 +1,5 @@
 # rsschool-cv
-<img src="img_girl.jpg" alt="Girl in a jacket">
+<img src="img_girl.jpg" alt="Girl in a jacket" style="width:500px;height:600px;">
 Name
 
 YULIYA SHAMSHUR
