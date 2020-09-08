@@ -8,11 +8,7 @@ BELORUSSIAN
 
 Work experience
 
-
-
-
-
-                                                Period
+ Period
 
 09.2001-TILL 09.2009
 Employer
@@ -47,8 +43,6 @@ Period
 UNIVERSITY
 
 POLOTSK STATE UNIVERSITY
-
-
 
 Qualification
 
