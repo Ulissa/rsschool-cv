@@ -1,2 +1,2 @@
-
-                                 https://github.com/Ulissa/rsschool-cv/cv              
+https://github.com/Ulissa/rsschool-cv/cv
+                                             
