@@ -3,7 +3,7 @@ Parkovaya street 32-33,211440 Novopolotsk, Belarus
 
 + 375295630779
 09/07/1979
-yuliyashamshur@mail.ru
+yuliyashamshur@gmail.com
 BELORUSSIAN
 
 Work experience
