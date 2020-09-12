@@ -1,7 +1,7 @@
 YULIYA SHAMSHUR
 Parkovaya street 32-33,211440 Novopolotsk, Belarus
 
-+ 375445539215
++ 375295630779
 09/07/1979
 yuliyashamshur@mail.ru
 BELORUSSIAN
