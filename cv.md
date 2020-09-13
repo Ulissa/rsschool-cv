@@ -59,3 +59,5 @@ REPRESENTED MY COUNTRY AS S MEMBER IN THE GENERAL GERMAN TEACHERS CONFERENCE
 2017 Courses for techers of German, Munic, Germany
 2018 Conference in Fribourge Switzerland
 2019 Conference in Bremen Germany
+
+link to LINKEDIN page: <a href="https://www.linkedin.com/in/ulyss-shamshur-466620186/">This is a link to external website</a>
