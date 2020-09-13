@@ -1,4 +1,4 @@
-YULIYA SHAMSHUR
+YULIYA SHAMSHUR <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE0x8gp8IHz-g/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=jbhrEPeilZVxYKZ7mz0eJh730Ow0qNIeJCCcm3wWnmQ">
 Parkovaya street 32-33,211440 Novopolotsk, Belarus
 
 + 375295630779
