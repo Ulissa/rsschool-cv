@@ -1,2 +1,2 @@
-https:///Ulissa.github.io/rsschool-cv/cv
+https://Ulissa.github.io/rsschool-cv/cv
                                              
