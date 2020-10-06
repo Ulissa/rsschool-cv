@@ -1,4 +1,4 @@
-YULIYA SHAMSHUR <img src="https://media-exp1.licdn.com/dms/image/C4D03AQE0x8gp8IHz-g/profile-displayphoto-shrink_200_200/0?e=1605744000&v=beta&t=jbhrEPeilZVxYKZ7mz0eJh730Ow0qNIeJCCcm3wWnmQ">
+YULIYA SHAMSHUR <img src="https://www.linkedin.com/in/ulyss-shamshur-466620186/">
 Parkovaya street 32-33,211440 Novopolotsk, Belarus
 
 + 375295630779
@@ -59,5 +59,7 @@ REPRESENTED MY COUNTRY AS S MEMBER IN THE GENERAL GERMAN TEACHERS CONFERENCE
 2017 Courses for techers of German, Munic, Germany
 2018 Conference in Fribourge Switzerland
 2019 Conference in Bremen Germany
+
+IT Qualifications: HTML5, CSS, Github,Wordpress
 
 link to LINKEDIN page: <a href="https://www.linkedin.com/in/ulyss-shamshur-466620186/">This is a link to external website</a>
